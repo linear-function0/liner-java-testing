@@ -5,7 +5,7 @@ public class Liner
     String uhh = "woah its java";
     System.out.println(uhh);
     // woah look at that i made a variable and hopefully printed it??? idk twin but this might be tuff
-      public static void Variabe(String[]args)
+      public void Variables(String[]args)
       {
         String username_probably_maybe = "Linear-function0";
         int six_or_seven = 67;
@@ -16,6 +16,7 @@ public class Liner
         // woah its variables twin
       }
   }
+  // please help it has errors im gonna cry im gonna cry help me help me help me :((((((
 }
 /* 
 hehe look at liner multi line comment >:3
