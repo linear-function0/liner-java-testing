@@ -5,7 +5,8 @@ public class Liner
     String uhh = "woah its java";
     System.out.println(uhh);
     // woah look at that i made a variable and hopefully printed it??? idk twin but this might be tuff
-      public void Variables(String[]args)
+      public static void main(String[]args)
+        // no idea if this works but whatever idc anyways bro 
       {
         String username_probably_maybe = "Linear-function0";
         int six_or_seven = 67;
