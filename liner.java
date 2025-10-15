@@ -12,6 +12,8 @@ public class Liner
     float decimals_maybe = 473.83;
     char letter = "B";
     boolean yes_no_maybe_so = true;
+    final String name = "Linear-function0" // woah it name spooky
+      //why there so many comments like who is writing these
         // woah its variables twin
     // ts pmo bro
       }
