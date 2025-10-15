@@ -6,13 +6,12 @@ public class Liner
     System.out.println(uhh);
     // woah look at that i made a variable and hopefully printed it??? idk twin but this might be tuff
         // no idea if this works but whatever idc anyways bro
-    String username_probably_maybe = "Linear-function0";
     int six_or_seven = 67;
         // sorry for the 67 im so sorry bro im sorry help me please sorry help help help help
     float decimals_maybe = 473.83;
     char letter = "B";
     boolean yes_no_maybe_so = true;
-    final String name = "Linear-function0" // woah it name spooky
+    final String name = "Linear-function0"; // woah it name spooky
       //why there so many comments like who is writing these
         // woah its variables twin
     // ts pmo bro
