@@ -18,6 +18,7 @@ public class Liner
         // woah its variables twin
     // ts pmo bro
     var twin = "Twin is twin";
+    print(length(name)); // i think that print uhh length of name?? im stupid sorry if you have to read this
   }
   // please help it has errors im gonna cry im gonna cry help me help me help me :((((((
 }
