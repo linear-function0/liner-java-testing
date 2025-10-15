@@ -17,7 +17,7 @@ public class Liner
       //why there so many comments like who is writing these
         // woah its variables twin
     // ts pmo bro
-      }
+    var twin = "Twin is twin";
   }
   // please help it has errors im gonna cry im gonna cry help me help me help me :((((((
 }
